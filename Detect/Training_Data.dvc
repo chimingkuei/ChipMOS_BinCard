@@ -1,0 +1,6 @@
+outs:
+- md5: 4815d0a03ee504bdc4d1fb271291274b.dir
+  size: 17365426
+  nfiles: 935
+  hash: md5
+  path: Training_Data
